@@ -1,0 +1,26 @@
+#title { background-color: white;
+		size: 100px
+}
+
+body {
+    background-color: rgb(4,30,66);
+}
+
+h1 {
+	color: rgb:(127,150,149);
+}
+h2 {
+	color: rgb:(134,147,151);
+}		
+p {
+    color: white; 
+	text-align: left;
+	
+}
+ul {
+	color: white;
+	text-align: landscape;
+}
+head {
+	  color: white;
+}	  
